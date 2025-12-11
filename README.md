@@ -3,6 +3,10 @@ By Sean Lumahan
 
 Welcome to my custom MARS programming language called 
 **"We the People,"** a language that is themed around U.S. history and government.
+I created this language because I have an interest in political science, and
+wanted to combine it with my interest in programming!
+The result was a programming language that acts similar to that of a game, where you
+try to keep the United States afloat.
 
 All **21 functions** planned out in Module 1 are implemented:
 - revolt
